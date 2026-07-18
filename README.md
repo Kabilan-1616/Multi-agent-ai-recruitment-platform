@@ -3,6 +3,12 @@
 An end-to-end Agentic AI recruitment platform that automates resume screening, candidate evaluation, interview question generation, recruiter email drafting, and candidate ranking using a collaborative multi-agent architecture powered by LangGraph.
 
 ---
+## 🌐 Live Demo
+
+- **Frontend:** https://multi-agent-recruiter.vercel.app
+- **Backend API:** https://multi-agent-ai-recruitment-platform.onrender.com/docs
+- **Health Check:** https://multi-agent-ai-recruitment-platform.onrender.com/health
+---
 
 # 📸 Screenshots
 
