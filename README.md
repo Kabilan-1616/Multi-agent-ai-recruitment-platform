@@ -7,9 +7,9 @@ An end-to-end Agentic AI recruitment platform that automates resume screening, c
 # 📸 Screenshots
 
 <p align="center">
-  <img src="screenshots/1_Dashboard.png" width="33%">
-  <img src="screenshots/2_AI Analzing.png" width="33%">
-  <img src="screenshots/3_Ranking.png" width="33%">
+  <img src="screenshots/1_Dashboard.png" width="30%">
+  <img src="screenshots/2_AI Analzing.png" width="30%">
+  <img src="screenshots/3_Ranking.png" width="30%">
 </p>
 
 <p align="center">
