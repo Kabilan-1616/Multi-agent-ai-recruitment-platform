@@ -158,7 +158,7 @@ Includes:
 ```bash
 git clone https://github.com/Kabilan-1616/Multi-agent-ai-recruitment-platform.git
 
-cd AI-Recruitment-Platform
+cd Multi-agent-ai-recruitment-platform
 
 python -m venv .venv
 
